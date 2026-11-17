@@ -1,0 +1,6 @@
+bin/
+*.class
+.DS_Store
+CSCI4055-2025-main/
+CSCI4055-2025-main.zip
+/buildCOMPANYdb.sql
